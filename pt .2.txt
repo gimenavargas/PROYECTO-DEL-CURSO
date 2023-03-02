@@ -1,0 +1,7 @@
+ACTIVIDADES ENTREGABLES 
+
+1.La interfaz grafica con tkinter 
+
+2.Diagrama de flujo y código fuente en Python
+
+3.Informe del procedimiento desarrollado.
