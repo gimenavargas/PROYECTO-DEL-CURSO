@@ -1,0 +1,17 @@
+
+6.¿Cómo trabajar con módulos, ficheros de texto y binarios en Python?
+
+Módulo: le permite a usted organizar lógicamente su código Python.
+Agrupando código relacionado dentro de un módulo hace el código
+más fácil de entender y usar. Fichero de Texto: Un objeto de tipo 
+file también ofrece un método llamado read (). Este método leerá el 
+fichero en su totalidad y lo devolverá como una cadena de texto. 
+Binarios: Para procesar elarchivo de a bytes en lugar de líneas, 
+se utiliza la función contenido = archivo. Read (n) para leer n bytes
+y archivo. Write (contenido), para escribir contenido en la posición
+actual del archivo.
+ 
+
+
+
+

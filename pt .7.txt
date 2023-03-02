@@ -1,0 +1,9 @@
+4. ¿Cómo estructurar una base de datos en Python?
+
+Para estructurar base de datos podemos utilizar MySQL, 
+para lo cual, vamos a trabajar con el módulo MySQLdb. 
+A diferencia de los módulos de la librería estándar de Python,
+MySQLdb debe ser instalado manualmente.
+
+
+

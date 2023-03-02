@@ -1,0 +1,7 @@
+1. ¿Como se maneja las cadenas, operaciones y se crea colecciones de datos en Python?
+
+Las cadenas se manipulan con funciones como replace(),
+index(), find(), etc. Las operaciones  
+con operadores aritméticos como + - * / % ** 
+Se crean colecciones de datos colocando loscorchetes. 
+

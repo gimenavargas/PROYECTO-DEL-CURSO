@@ -1,0 +1,12 @@
+7. ¿Cómo generar documentación automáticamente y trabajar 
+con pruebas automáticas?
+
+Con programas de terceros dedicados a la automatización, 
+como lo es Zapier.
+
+
+
+
+
+
+

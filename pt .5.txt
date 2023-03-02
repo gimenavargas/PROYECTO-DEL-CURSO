@@ -1,0 +1,6 @@
+2. ¿Cómo generar Clases, Objetos y Funciones en Python?
+Por métodos como:
+String.
+Tuplas. Diccionarios.
+Bucles.
+

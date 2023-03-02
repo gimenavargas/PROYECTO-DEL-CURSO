@@ -1,0 +1,8 @@
+
+5. ¿Cómo generar una interfaz gráfica con Tkinter?
+
+Importamos el módulo Tkinter e instanciamos la clase Tkinter.
+
+
+
+
